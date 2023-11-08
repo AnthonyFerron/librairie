@@ -1,0 +1,8 @@
+.div_head {
+    display: flex;
+    width: 1100%;
+    height: 131px;
+    gap: 108px;
+    flex-shrink: 0;
+    background-color: #F1F1F9;
+}
