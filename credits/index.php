@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include('../header/index.php'); ?>
+    <?php include('../header/index.html'); ?>
     <h1>content</h1>
     <?php include('../footer/index.php'); ?>
 </body>
