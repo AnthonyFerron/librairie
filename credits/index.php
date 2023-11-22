@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php include('../header/index.html'); ?>
-    <h1>content</h1>
-    <?php include('../footer/index.php'); ?>
+    <h1 class="text-white text-center">content</h1>
+    <?php include('../footer/index.html'); ?>
 </body>
 </html>
