@@ -15,12 +15,13 @@
 </head>
 
 
-<body class="  justify-center flex bg-[url('../Icons/Background.png')] bg-no-repeat  bg-cover bg-[#04151F]	"> 
-    <?php include('../header/index.html'); ?>
+<body class="bg-[url('../Icons/Background.png')] bg-no-repeat bg-cover bg-[#04151F]"> 
+  <?php include('../header/index.html'); ?>
+  <div class="flex justify-center mb-[8%]">
     
 
    
-    <div class="   rounded-[30px] bg-[linear-gradient(132deg,_rgba(241,_138,_0,_0.70)_26.44%,_rgba(181,_181,_181,_0.20)_61.92%)] [box-shadow:0px_4px_24px_-1px_rgba(0,_0,_0,_0.20)] backdrop-filter backdrop-blur-[10px]  flex  flex-col mt-[8%]  w-[25%] h-[2%] px-6 py-12 lg:px-8">
+    <div class="rounded-[30px] bg-[linear-gradient(132deg,_rgba(241,_138,_0,_0.70)_26.44%,_rgba(181,_181,_181,_0.20)_61.92%)] [box-shadow:0px_4px_24px_-1px_rgba(0,_0,_0,_0.20)] backdrop-filter backdrop-blur-[10px]  flex  flex-col mt-[8%] w-[25%] h-[2%] px-6 py-12 lg:px-8">
         <div class=" flex  flex-col  sm:mx-auto sm:w-full sm:max-w-sm ">
           <img class="mx-auto h-[55%] w-[30%]" src="/Icons/Avatar.png" alt="Your Company">
           <div>
@@ -72,7 +73,8 @@
         </div>
       </div>
     </div> 
-    <?php include('../footer/index.html'); ?>
+  </div>
+  <?php include('../footer/index.html'); ?>
 </body>
 
 <html>
