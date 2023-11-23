@@ -68,7 +68,7 @@
       
           <p class="mt-5 text-center text-sm text-white">
             Tu n'es pas membre ? 
-            <a href="#" class="font-semibold leading-6 text-orange text-[rgba(254,145,0,0.70)] hover:text-indigo-500">Inscrit toi en quelques Segonde </a>
+            <a href="#" class="font-semibold leading-6 text-orange text-[rgba(254,145,0,0.70)] hover:text-indigo-500">Inscrit toi en quelques secondes </a>
           </p>
         </div>
       </div>
