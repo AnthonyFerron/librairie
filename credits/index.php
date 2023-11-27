@@ -6,8 +6,12 @@
     <title>Document</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[url('../Icons/Background.png')] bg-cover bg-[#04151F]">
-        <?php include('../header/index.html');?>
+<body class="bg-[#04151F]">
+
+    <div class="absolute top-0"><img class="w-screen" src="../Icons/Background.png"></div>
+
+    <?php include('../header/index.html');?>
+    
     <div class="flex justify-center items-center mt-[7%]">
         <div class="flex flex-row justify-around items-center w-[1250px] h-[375px] bg-gradient-to-br from-amber-500 rounded-[30px] shadow backdrop-blur ">
             <div class="">
