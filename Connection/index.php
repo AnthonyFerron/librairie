@@ -15,9 +15,7 @@
 </head>
 
 
-<body class="bg-[#04151F]">
-
-  <div class="absolute top-0"><img class="w-screen" src="../Icons/Background.png"></div>
+<body class="bg-[url('../Icons/Background.png')] bg-cover bg-[#04151F]">
 
   <?php include('../header/index.html'); ?>
 

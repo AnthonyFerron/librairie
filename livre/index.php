@@ -14,14 +14,14 @@
 
     <div class="flex justify-center items-center w-full">
         <div class="flex flex-col w-[650px] h-[985px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
-            <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
+            <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow mt-[-50px]">
                 <h1 class="text-5xl text-white">Shutter Island</h1>
             </div>
             <img class="flex w-[252px] my-10 opacity-100" src="../Icons/shutterisland.jpg"/>
             <div class="flex flex-col-2">
                 <img class="" src="../Icons/star.png">
             </div>
-            <div class="flex text-white text-center">
+            <div class="flex text-white text-center mx-10">
                 <p classs="flex text-3x1 text-white text-center">Nous sommes dans les années cinquante. Au large de Boston, sur
                 un îlot nommé Shutter Island se dresse un groupe de bâtiments à 
                 l'allure de forteresse. C'est un hôpital psychiatrique. Mais les 
@@ -32,7 +32,7 @@
     </div>
 
     <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px]">
-        <div class="flex flex-row w-[50%] h-full">
+        <div class="flex flex-row w-[49%] h-full">
 
             <div class="flex flex-col justify-around items-center text-2xl w-[50%] h-full">
                 <p class=" flex text-white">Prix : 8€65<br/><br/>Auteur : Dennis Lehane<br/><br/>Editeur : Rivage<br/><br/>Date : Septembre 2009
@@ -49,7 +49,7 @@
         <div class="w-[1px] h-[250px] bg-white"></div>
 
 
-        <div class="flex flex-col w-[50%] h-full justify-around items-center">
+        <div class="flex flex-col w-[49%] h-full justify-around items-center">
 
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
@@ -86,11 +86,12 @@
                         </div>
                     </div>
                 </div>
+            </div>
         </div>
 
     </div>
 
-    <?php include('../footer/index.php'); ?>
+        <?php include('../footer/index.html'); ?>
 
 </body>
 </html>
