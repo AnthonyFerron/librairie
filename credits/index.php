@@ -15,7 +15,7 @@
                 <h1 class="text-center text-white text-3xl">Vincent Cotrez</h1>
             </div>
             <div class="">
-                <div class="flex justify-center items-center rounded-full bg-gradient-to-br from-white to-[#F18A00] w-[275px] h-[275px]"><img src="../Icons\antho.png"></div>
+                <div class="flex justify-center items-center rounded-full bg-gradient-to-br from-white to-[#F18A00] w-[275px] h-[275px]"><img src="../Icons/antho.png"></div>
                 <h1 class="text-center text-white text-3xl">Anthony Ferron</h1>
             </div>
             <div class="">
