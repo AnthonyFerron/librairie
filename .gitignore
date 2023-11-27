@@ -2,3 +2,5 @@
 *.json
 /dist
 input.css
+/.vscode
+tailwind.config.json
