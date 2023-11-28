@@ -40,7 +40,7 @@
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-10">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px]">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
@@ -91,7 +91,7 @@
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
                     <div class="flex">
-                        <img class="flex h-[75px]" src="../Icons/user.png">
+                        <img class="flex h-[75px]" src="../../Icons/user.png">
                     </div>
                     <div>
                         <h2 class="flex text-white font-bold text-xl">User2569</h2>
@@ -120,13 +120,12 @@
                         </div>
                         
                         <div class="flex">
-                            <img class="flex h-[75px]" src="../Icons/user.png">
+                            <img class="flex h-[75px]" src="../../Icons/user.png">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
     </div>
 
     <?php include('../../footer/footer/index.html'); ?>
