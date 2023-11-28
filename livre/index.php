@@ -40,7 +40,7 @@
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px]">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-10">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
