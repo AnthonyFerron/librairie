@@ -8,9 +8,9 @@
 </head>
 <body class="bg-[#04151F]">
 
-    <div class="absolute top-0"><img class="w-screen" src="../Icons/Background.png"></div>
+    <div class="absolute top-0"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <?php include('../header/index.html'); ?>
+    <?php include('../../header/header/index.html'); ?>
 
     <!-- pres livre -->
 
@@ -19,7 +19,7 @@
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow mt-[-50px]">
                 <h1 class="text-5xl text-white">Shutter Island</h1>
             </div>
-            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../Icons/shutterisland.jpg"/>
+            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/shutterisland.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../Icons/star.png">
                 <p>5/5</p>
@@ -99,7 +99,7 @@
                         <p class=" text-white">lorem lorem lorem lorem</p>
                         <p class=" text-white">lorem lorem lorem lorem</p>
                         <p class=" text-white">lorem lorem lorem lorem</p>
-                        <div class="flex flex-row text-white"><img class="w-[25px]" src="../Icons/star.png"><p>5/5</p></div>
+                        <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
                 </div>
@@ -116,7 +116,7 @@
                             <p class=" text-white">lorem lorem lorem lorem</p>
                             <p class=" text-white">lorem lorem lorem lorem</p>
                             <p class=" text-white">lorem lorem lorem lorem</p>
-                            <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../Icons/star.png"><p>5/5</p></div>
+                            <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
                         <div class="flex">
@@ -129,7 +129,7 @@
 
     </div>
 
-    <?php include('../footer/index.html'); ?>
+    <?php include('../../footer/footer/index.html'); ?>
 
 </body>
 </html>
