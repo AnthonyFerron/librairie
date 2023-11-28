@@ -99,6 +99,7 @@
                         <p class=" text-white">lorem lorem lorem lorem</p>
                         <p class=" text-white">lorem lorem lorem lorem</p>
                         <p class=" text-white">lorem lorem lorem lorem</p>
+                        <div class="flex flex-row text-white"><img class="w-[25px]" src="../Icons/star.png"><p>5/5</p></div>
 
                     </div>
                 </div>
@@ -115,6 +116,7 @@
                             <p class=" text-white">lorem lorem lorem lorem</p>
                             <p class=" text-white">lorem lorem lorem lorem</p>
                             <p class=" text-white">lorem lorem lorem lorem</p>
+                            <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
                         <div class="flex">
@@ -127,7 +129,9 @@
 
     </div>
 
+    <div class="w-full mt-[50px]">
         <?php include('../footer/index.html'); ?>
+    </div>
 
 </body>
 </html>
