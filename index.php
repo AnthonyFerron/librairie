@@ -6,6 +6,8 @@
     <title>Document</title>
 </head>
 <body>
+    <?php include('../header/index.html'); ?>
     <h1>bienvenue sur la librairie<h1>
+    <?php include('../footer/index.html'); ?>
 </body>
 </html>

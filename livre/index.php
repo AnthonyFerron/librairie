@@ -129,9 +129,7 @@
 
     </div>
 
-    <div class="w-full mt-[50px]">
-        <?php include('../footer/index.html'); ?>
-    </div>
+    <?php include('../footer/index.html'); ?>
 
 </body>
 </html>
