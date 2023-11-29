@@ -27,8 +27,8 @@
 
         </div>
     </div>
-    <div class="absolute bottom-0 w-[100%]">  
-        <?php include('../footer/index.html'); ?>
-    </div>  
+        
+    <?php include('../footer/index.html'); ?>
+    
 </body>
 </html>

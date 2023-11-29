@@ -9,7 +9,7 @@
 <body>
     <!-- header -->
 
-    <?php include('./header/index.html');?>
+    <?php include('./header/index.html'); ?>
 
     <!-- body -->
 
@@ -17,7 +17,7 @@
 
     <!-- footer -->
 
-    <?php include('./footer/index.html');?>
+    <?php include('./footer/index.html'); ?>
 
 </body>
 </html>
