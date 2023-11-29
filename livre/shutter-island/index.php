@@ -128,7 +128,7 @@
         </div>
     </div>
 
-    <?php include('../footer/index.html'); ?>
+    <?php include('../../footer/index.html'); ?>
 
 </body>
 </html>
