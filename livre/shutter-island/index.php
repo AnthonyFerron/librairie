@@ -10,7 +10,7 @@
 
     <div class="absolute top-0"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <?php include('../../header/header/index.html'); ?>
+    <?php include('../../header/index.html'); ?>
 
     <!-- pres livre -->
 
