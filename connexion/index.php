@@ -24,10 +24,10 @@
         <div class=" flex  flex-col  sm:mx-auto sm:w-full sm:max-w-sm ">
           <img class="mx-auto h-[55%] w-[30%]" src="../Icons/Avatar.png" alt="Your Company">
           <div>
-            <label for="name" class="block text-sm flex  justify-center font-medium leading-6 text-white">
+            <label for="name" class=" text-sm flex  justify-center font-medium leading-6 text-white">
             </label>
             <div class="mt-4 flex justify-center text-center ">
-              <input class="text-center bg-blur rounded-md rounded-[8px] border-[2px] border-[solid] border-[rgba(254,145,0,0.70)] "  id="email" name="email" type="email" autocomplete="email" required placeholder="Nom Prénom" class="sal  block w-[80%] border-0 py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6">
+              <input class="text-center bg-blur rounded-md  border-[2px] border-[rgba(254,145,0,0.70)] "  id="email" name="email" type="email" autocomplete="email" required placeholder="Nom Prénom" class="sal  block w-[80%] border-0 py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6">
             </div>
           </div>
         </div>
@@ -54,7 +54,7 @@
                 </div>
               </div>
               <div class="mt-2">
-                <input id="password" name="password" type="password" autocomplete="current-password" required placeholder="Mot de passe" class="sal text-center rounded-[8px] border-[2px] border-[solid] border-[rgba(254,145,0,0.70)] block  w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm placeholder:text-gray-400 sm:text-sm sm:leading-6">
+                <input id="password" name="password" type="password" autocomplete="current-password" required placeholder="Mot de passe" class="sal text-center  border-[2px]  border-[rgba(254,145,0,0.7)] block  w-full rounded-md  py-1.5 text-gray-900 shadow-sm placeholder:text-gray-400 sm:text-sm sm:leading-6">
               </div>
             </div>
       
