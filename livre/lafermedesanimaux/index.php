@@ -4,36 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Vendredi </title>
+    <title>Présentation La ferme des animaux</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
 
     <div class="absolute top-0"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <!-- <?php include('../../header/index.html'); ?> -->
+    <?php include('../../header/index.html'); ?>
 
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[850px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[790px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white">Vendredi ou la vie sauvage</h1>
+                <h1 class="text-3xl text-white">La Ferme des Animaux</h1>
             </div>
-            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/vendredi-ou-la-vie-sauvage"/>
+            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/la-ferme-des-animaux.jpeg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
                 <p>5/5</p>
             </div>
             <div class="flex text-white text-center mx-10 text-xl mb-[-50px]">
-                <p classs="flex text-white text-center">Septembre 1759. Robinson est &agrave; bord de La Virginie faisant 
-                    route pour le Chili. Une temp&ecirc;te formidable pr&eacute;cipite le navire 
-                    sur des r&eacute;cifs, et Robinson va se retrouver seul survivant du 
-                    naufrage sur une &icirc;le d&eacute;serte. Livr&eacute; &agrave; lui-m&ecirc;me, sa solitude va le 
-                    contraindre &agrave; faire preuve d'ing&eacute;niosit&eacute;, de pers&eacute;v&eacute;rance et de 
-                    courage, afin de survivre dans ce monde sauvage. Jusqu'au jour 
-                    o&ugrave;, se croyant abandonn&eacute; de tous, il rencontre un être humain 
-                    pour le moins inattendu…
+                <p classs="flex text-white text-center">A la Ferme du Manoir, les animaux en ont assez d'&ecirc;;tre 
+                    maltrait&eacute;s. Le Major, cochon de son &eacute;tat, leur ouvre les yeux sur 
+                    la tyrannie de l'Homme. Une fois le fermier banni, ils prennent 
+                    leur destin en main et des r&egrave;gles sont &eacute;dict&eacute;es et r&eacute;dig&eacute;es par 
+                    les cochons. La plus importante : Tous les animaux sont &eacute;gaux. 
+                    Mais le temps passe et il s'av&egrave;re que certains le sont plus que 
+                    d'autres.
                 </p>
             </div>
         </div>
@@ -55,9 +54,9 @@
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p >
                         8€65<br>
-                        <br>Michel Tournier<br>
-                        <br>Gallimard Jeunesse<br>
-                        <br>1971
+                        <br>George Orwell <br>
+                        <br>Delcourt<br>
+                        <br>1945
                     </p>
                 </div>
             </div>
@@ -72,10 +71,10 @@
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p>
-                        167<br>
-                        <br>12,3 x 17,8 x 5,30 cm<br>
-                        <br>1,3460 kg<br>
-                        <br>2070577066
+                        48<br>
+                        <br>29.8 x 22.6 x 0,9 cm<br>
+                        <br>0,428 kg<br>
+                        <br>2413039651
                     </p>
                 </div>
             </div>
