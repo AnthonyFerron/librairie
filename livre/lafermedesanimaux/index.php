@@ -4,36 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation 1984</title>
+    <title>Présentation La ferme des animaux</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
 
     <div class="absolute top-0"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <!-- <?php include('../../header/index.php'); ?> -->
+    <?php include('../../header/index.html'); ?>
 
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[875px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[790px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-5xl text-white">1984</h1>
+                <h1 class="text-3xl text-white">La Ferme des Animaux</h1>
             </div>
-            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/1984.jpg"/>
+            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/la-ferme-des-animaux.jpeg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
                 <p>5/5</p>
             </div>
             <div class="flex text-white text-center mx-10 text-xl mb-[-50px]">
-                <p classs="flex text-white text-center">En 1984, apr&egrave;s une catastrophe d&eacute;vastatrice, le monde est divis&eacute; 
-                    en 3 blocs. En guerre permanente avec Estasia et Eurasia, 
-                    Oc&eacute;ania est domin&eacute;e par un gouvernement totalitaire que dirige 
-                    l'omnipr&eacute;sent `Big Brother'. Contr&ocirc;l&eacute;e au travers d'innombrables 
-                    &eacute;crans, la vie de chacun y est mis&eacute;rable, notamment celles des 
-                    prol&eacute;taires, consid&eacute;r&eacute;s comme des sous-hommes. Modeste 
-                    employ&eacute; au Miniver, le minist&egrave;re de la V&eacute;rit&eacute;, Winston Smith 
-                    consigne secr&egrave;tement ses r&eacute;flexions dans un journal intime.</p>
+                <p classs="flex text-white text-center">A la Ferme du Manoir, les animaux en ont assez d'&ecirc;;tre 
+                    maltrait&eacute;s. Le Major, cochon de son &eacute;tat, leur ouvre les yeux sur 
+                    la tyrannie de l'Homme. Une fois le fermier banni, ils prennent 
+                    leur destin en main et des r&egrave;gles sont &eacute;dict&eacute;es et r&eacute;dig&eacute;es par 
+                    les cochons. La plus importante : Tous les animaux sont &eacute;gaux. 
+                    Mais le temps passe et il s'av&egrave;re que certains le sont plus que 
+                    d'autres.
+                </p>
             </div>
         </div>
     </div>
@@ -54,9 +54,9 @@
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p >
                         8€65<br>
-                        <br>George Orwell<br>
-                        <br>Gallimard<br>
-                        <br>Juin 1949
+                        <br>George Orwell <br>
+                        <br>Delcourt<br>
+                        <br>1945
                     </p>
                 </div>
             </div>
@@ -71,10 +71,10 @@
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p>
-                        376<br>
-                        <br>11x16.90x1.80cm<br>
-                        <br>0.2380 kg<br>
-                        <br>2743620064
+                        48<br>
+                        <br>29.8 x 22.6 x 0,9 cm<br>
+                        <br>0,428 kg<br>
+                        <br>2413039651
                     </p>
                 </div>
             </div>

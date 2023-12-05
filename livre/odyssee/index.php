@@ -4,39 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Ma vie sans gravité </title>
+    <title>Présentation l'odyss&eacute;e</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
 
     <div class="absolute top-0"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <!-- <?php include('../../header/index.html'); ?> -->
+    <?php include('../../header/index.html'); ?>
 
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[975px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[850px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white">Ma vie sans gravité</h1>
+                <h1 class="text-3xl text-white">L'odyssée d'Homère</h1>
             </div>
-            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/Ma-vie-sans-gravite.jpg"/>
+            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/l'odysee-d'homere.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
                 <p>5/5</p>
             </div>
             <div class="flex text-white text-center mx-10 text-xl mb-[-50px]">
-                <p classs="flex text-white text-center">Comment devient-on le plus jeune Français &agrave; partir vers la 
-                    Station spatiale ? Comment passer de sa Normandie natale aux 
-                    pas de tir de Ba&iuml;konour et de Cap Canaveral ? Pour la premi&egrave;re 
-                    fois, Thomas Pesquet se raconte sans d&eacute;tour, dans un r&eacute;cit tr&egrave;s 
-                    personnel aussi dr&ocirc;le que surprenant. Il nous entra&icirc;ne des 
-                    coulisses de l’&eacute;cole des astronautes jusqu’au frisson du 
-                    d&eacute;collage, partage le quotidien de ses 396 jours &agrave; bord de l’ISS 
-                    et l’&eacute;merveillement de d&eacute;couvrir, flottant dans le vide 
-                    intersid&eacute;ral, notre plan&egrave;te si fragile. Une autobiographie aux 
-                    allures de roman d’aventures, dont le h&eacute;ros est devenu l’une des 
-                    personnalit&eacute;s prfér&eacute;es des Français.
+                <p classs="flex text-white text-center">Chante, &ocirc; muse, le h&eacute;ros aux cent d&eacute;tours qui a tant err&eacute; sur 
+                    terre apr&egrave;s avoir pill&eacute; la ville sainte de Troie, qui a vu tant de 
+                    villes et connu tant de peuples, qui sur mer a tant souffert en 
+                    son coeur, luttant pour sa vie et le retour de ses &eacute;quipages. Tous 
+                    les Grecs qui ne sont pas morts devant Troie ont rejoint les leurs. 
+                    Seul Ulysse erre encore sur les flots, jouet de la rancune de 
+                    Pos&eacute;idon. Et tandis qu'à Ithaque le souvenir du h&eacute;ros s'estompe, 
+                    l'app&eacute;tit des pr&eacute;tendants au tr&ocirc;ne s'aiguise.
                 </p>
             </div>
         </div>
@@ -58,9 +55,9 @@
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p >
                         8€65<br>
-                        <br>Thomas Pesquet<br>
-                        <br>Flammarion<br>
-                        <br>2023
+                        <br>Homere <br>
+                        <br>Casterman<br>
+                        <br>2012
                     </p>
                 </div>
             </div>
@@ -75,10 +72,10 @@
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p>
-                        380<br>
-                        <br>15,5 x 24 x 5,30 cm<br>
-                        <br>0,552 kg<br>
-                        <br>2080423037
+                        313<br>
+                        <br>18 x 12,7 x 2,1 cm<br>
+                        <br>0,23 kg<br>
+                        <br>2203033894
                     </p>
                 </div>
             </div>
