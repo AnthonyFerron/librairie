@@ -15,39 +15,44 @@
         <h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-5xl w-[577px] h-[76px] text-white">Nos livres</h1>
     </div>
     
-    <div  class=" btn flex flex-row w-full">
-        <div  class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a data-filter="All" href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">all</h1></a>
-        </div>
-        <div  data-filter="Roman" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Roman</h1></a>
-        </div>
-        <div data-filter="BD" class="btn flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">BD</h1></a>
-        </div>
-        <div data-filter="Nos livres" class=" btn flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Nos livres</h1></a>
-        </div>
-        <div data-filter="Mangas" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Manga</h1></a>
-        </div>
-        <div data-filter="Jeunesse" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Jeunesse</h1></a>
-        </div>
-        <div data-filter="Adolescent" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Adolescent</h1></a>
-        </div>
-        <div data-filter="Aventures" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Aventures</h1></a>
-        </div>
-        <div data-filter="Historique" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
-            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Historique</h1></a>
-        </div>
+    <div id="btns" class="flex flex-row justify-center items-center ml-5"></div>
+    <div id="content" class="flex justify-center items-center">
+        <div id="root" class="flex flex-col-5"></div>
     </div>
 
-    <div class=" books flex flex-col justify-center items-center">
+    <!-- <div  class=" btn flex flex-row w-full">
+        <div  class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a id="all" href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">all</h1></a>
+        </div>
+        <div  id="Roman" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Roman</h1></a>
+        </div>
+        <div id="BD" class="btn flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">BD</h1></a>
+        </div>
+        <div id="Nos livres" class=" btn flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Nos livres</h1></a>
+        </div>
+        <div id="Mangas" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Manga</h1></a>
+        </div>
+        <div id="Jeunesse" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Jeunesse</h1></a>
+        </div>
+        <div id="Adolescent" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Adolescent</h1></a>
+        </div>
+        <div id="Aventures" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Aventures</h1></a>
+        </div>
+        <div id="Historique" class="flex justify-around items-center mt-[40px] mb-[30px] ml-10">
+            <a href="#" class="rounded-[30px] w-[196px] h-[55px]"><h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white">Historique</h1></a>
+        </div>
+    </div> -->
+
+    <!-- <div class=" books flex flex-col justify-center items-center">
         <div class="flex flex-row justify-center items-center">
-            <img data-filter="Roman" class="w-[100px] ml-10" src="../Icons/couvertures/shutterisland.jpg">
+            <img id="Roman" class="w-[100px] ml-10" src="../Icons/couvertures/shutterisland.jpg">
             <img class="w-[100px] ml-10" src="../Icons/couvertures/la-ferme-des-animaux.jpeg">
             <img class="w-[100px] ml-10" src="../Icons/couvertures/l'odysee-d'homere.jpg">
             <img class="w-[100px] ml-10" src="../Icons/couvertures/harrypotteretleprisonnierdaskaban.jpg">
@@ -64,10 +69,10 @@
             <img class="w-[100px] ml-10" src="../Icons/couvertures/tom-et-nana.jpg">
             <img class="w-[100px] ml-10" src="../Icons/couvertures/snk-tome-1.jpg">
         </div>
-    </div>
+    </div> -->
     
     
     <?php include('./footer/index.html'); ?>
-    <script src="index.js"> </script>
+    <script src="script.js"></script>
 </body>
 </html>
