@@ -72,7 +72,7 @@ const product = [
     title: 'La ferme des animaux',
     category: 'Classique',
     grade: '5/5',
-    link: '#'
+    link: './lafermedesanimaux/'
 },
 {
     id: 2,
@@ -80,7 +80,7 @@ const product = [
     title: "L'odysse d'Homere",
     category: 'Classique',
     grade: '4.9/5',
-    link: '#'
+    link: './odyssee/'
 },
 {
     id: 7,
@@ -104,7 +104,7 @@ const product = [
     title: 'Asterix et obelix',
     category: 'BD',
     grade: '4.7/5',
-    link: '#'
+    link: './asterix/'
 },
 {
     id: 2,
@@ -137,7 +137,7 @@ const product = [
     title: 'One piece',
     category: 'Manga',
     grade: '4.8/5',
-    link: '#'
+    link: './'
 },
 {
     id: 3,
