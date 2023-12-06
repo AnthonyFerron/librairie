@@ -50,7 +50,7 @@ const filters = [...new Set(btns.map((btn)=>
 document.getElementById('btns').innerHTML=filters.map((btn)=>{
     var {name, id} = btn;
     return(
-        "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5' onclick='filterItems("+(id)+`)'>${name}</button>`
+        "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-500 rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5' onclick='filterItems("+(id)+`)'>${name}</button>`
     )
 }).join('');
 
@@ -59,85 +59,114 @@ const product = [
     id: 8,
     image: '../Icons/couvertures/shutterisland.jpg',
     title: 'Shutter Island',
-    category: 'Polar'
+    category: 'Polar',
+    grade: '4.8/5',
+    link: './shutter-island/'
 },
 {
     id: 2,
     image: '../Icons/couvertures/la-ferme-des-animaux.jpeg',
     title: 'La ferme des animaux',
-    category: 'Classique'
+    category: 'Classique',
+    grade: '4.8/5',
+    link: '#'
 },
 {
     id: 2,
-    image: '../Icons/couvertures/odysseHomere.jpg',
+    image: "../Icons/couvertures/l'odysee-d'homere.jpg",
     title: "L'odysse d'Homere",
-    category: 'Classique'
+    category: 'Classique',
+    grade: '4.8/5',
+    link: '#'
 },
 {
     id: 7,
     image: '../Icons/couvertures/harrypotteretleprisonnierdaskaban.jpg',
     title: 'Harry potter 3',
-    category: 'Fantastique'
+    category: 'Fantastique',
+    grade: '4.8/5',
+    link: './harrypotter/'
 },
 {
     id: 2,
     image: '../Icons/couvertures/1984.jpg',
     title: '1984',
-    category: 'Classique'
+    category: 'Classique',
+    grade: '4.8/5',
+    link: './1984/'
 },
 {
     id: 3,
     image: '../Icons/couvertures/asterixetobelix.jpg',
     title: 'Asterix et obelix',
-    category: 'BD'
-},
-{
-    id: 7,
-    image: '../Icons/couvertures/hungerGamestome1.jpg',
-    title: 'Hunger Games',
-    category: 'Fantastique'
-},
-{
-    id: 5,
-    image: '../Icons/couvertures/Tourne-la-page.jpg',
-    title: 'Tourne la page',
-    category: 'Biographie'
-},
-{
-    id: 5,
-    image: '../Icons/couvertures/Ma-vie-sans-gravite.jpg',
-    title: 'Ma vie dans gravite',
-    category: 'Biographie'
-},
-{
-    id: 4,
-    image: '../Icons/couvertures/one-piece-tome-1.jpg',
-    title: 'One piece',
-    category: 'Manga'
-},
-{
-    id: 3,
-    image: '../Icons/couvertures/lucky-luke.jpg',
-    title: 'Lucky Luke',
-    category: 'BD'
+    category: 'BD',
+    grade: '4.8/5',
+    link: '#'
 },
 {
     id: 2,
     image: '../Icons/couvertures/vendredi-ou-la-vie-sauvage.jpg',
     title: 'Vendredi ou la vie sauvage',
-    category: 'Classique'
+    category: 'Classique',
+    grade: '4.8/5',
+    link: './vendredi/'
+},
+
+{
+    id: 5,
+    image: '../Icons/couvertures/Tourne-la-page.jpg',
+    title: 'Tourne la page',
+    category: 'Biographie',
+    grade: '4.8/5',
+    link: './tournelapage/'
+},
+{
+    id: 5,
+    image: '../Icons/couvertures/Ma-vie-sans-gravite.jpg',
+    title: 'Ma vie dans gravite',
+    category: 'Biographie',
+    grade: '4.8/5',
+    link: './sansgravite/'
+},
+{
+    id: 4,
+    image: '../Icons/couvertures/one-piece-tome-1.jpg',
+    title: 'One piece',
+    category: 'Manga',
+    grade: '4.8/5',
+    link: '#'
+},
+{
+    id: 3,
+    image: '../Icons/couvertures/lucky-luke.jpg',
+    title: 'Lucky Luke',
+    category: 'BD',
+    grade: '4.8/5',
+    link: '#'
+},
+{
+    id: 7,
+    image: '../Icons/couvertures/hungerGamestome1.jpg',
+    title: 'Hunger Games',
+    category: 'Fantastique',
+    grade: '4.8/5',
+    link: '#'
 },
 {
     id: 6,
     image: '../Icons/couvertures/tom-et-nana.jpg',
     title: 'Tom-Tom et Nana',
-    category: 'Enfant'
+    category: 'Enfant',
+    grade: '4.8/5',
+    link: '#'
 },
 {
     id: 4,
     image: '../Icons/couvertures/snk-tome-1.jpg',
     title: 'Attaque des titans',
-    category: 'Manga'
+    category: 'Manga',
+    grade: '4.8/5',
+    link: '#'
 },
 ];
 
@@ -159,14 +188,30 @@ const filterItems = (a)=>{
 const displayItem = (items) => {
     document.getElementById('root').innerHTML = items.map((item)=>
     {
-        var{image, title} = item;
+        var{image, title, grade, category, link} = item;
         return(
-            `<div class="flex flex-col justify-center items-center">
-            <img class="w-[100px]" src=${image}></img>
-            <div class="flex justify-center items-center text-xl text-white bg-gradient-to-br from-amber-500">
-            <h1>${title}</h1>
+            `<a href="${link}">
+            <div class="flex flex-col justify-center items-center h-[500px] mr-[100px]">
+            <img class="h-[250px]" src=${image}></img>
+            <div class="flex justify-center items-center mt-5">
+            <div class="flex  justify-center items-center w-[250px] bg-gradient-to-br from-amber-500 rounded-[30px]">
+            <h1 class="text-center text-2xl text-white  m-2">${title}</h1>
             </div>
-            </div>`)
+            </div>
+            <div class="flex justify-start items-start w-full  mt-2 ">
+            <div class="flex w-[70%] bg-gradient-to-br from-amber-500 rounded-[30px] justify-center items-center">
+            <h1 class="text-2xl text-white">${category}</h1>
+            </div>
+            </div>
+            <div class="flex flex-row justify-end items-end w-full mt-2">
+            <div class="flex flex-row bg-gradient-to-br rounded-[30px] from-amber-500 w-[85px]">
+            <img src="../Icons/star.png" class="w-[30px]">
+            <h1 class="text-xl text-white ">${grade}</h1>
+            </div>
+            </div>
+            </div>
+            </a>`)
+
 
     }).join('');
 }
