@@ -43,23 +43,23 @@
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px] font-[Roboto]">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[100px] mb-[150px] font-[Roboto]">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
                 <div class="flex flex-col justify-left items-center text-2xl w-[50%] h-full">
                     <p class="text-white">Prix :<br>
-                        <br>Auteur : <br>
-                        <br>Editeur :<br>
-                        <br>Date :
-                    </p>
+                            <br>Auteur : <br>
+                            <br>Editeur :<br>
+                            <br>Date :
+                        </p>
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p >
                         8€65<br>
-                        <br>Homere <br>
-                        <br>Casterman<br>
-                        <br>2012
+                        <br>George Orwell<br>
+                        <br>Gallimard<br>
+                        <br>Juin 1949
                     </p>
                 </div>
             </div>
@@ -74,10 +74,10 @@
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
                     <p>
-                        313<br>
-                        <br>18 x 12,7 x 2,1 cm<br>
-                        <br>0,23 kg<br>
-                        <br>2203033894
+                        376<br>
+                        <br>11x16.90x1.80cm<br>
+                        <br>0.2380 kg<br>
+                        <br>2743620064
                     </p>
                 </div>
             </div>
@@ -94,11 +94,11 @@
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
                     <div class="flex">
-                        <img class="flex h-[75px] w-[140px]" src="../../Icons/user.png">
+                        <img class="flex h-[75px] w-[200px]" src="../../Icons/user.png">
                     </div>
                     <div>
-                        <p class="text-justify w-[50%] text-white text-lg font-[Roboto]">L'Odyss&eacute;e d'Hom&egrave;re est une &eacute;pop&eacute;e mythique captivante, m&ecirc;lant les exploits d'Ulysse &agrave; des rencontres mythologiques. 
-                            La po&eacute;sie de l'&eacute;criture enrichit cette lecture incontournable pour les amateurs d'aventures &eacute;piques.</p>
+                        <p class="text-justify w-[50%] text-white text-lg font-[Roboto]">"1984" de George Orwell plonge les lecteurs dans un monde dystopique oppressant. L'histoire de Winston Smith face &agrave; un r&eacute;gime totalitaire soul&egrave;ve des questions cruciales sur la surveillance et la perte de libert&eacute;. 
+                            Une lecture captivante interrogeant les enjeux de la soci&eacute;t&eacute; et de la libert&eacute; individuelle."</p>
                         <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
@@ -107,17 +107,17 @@
             
             <div class="flex flex-col w-[50%] h-full justify-around items-center">
 
-                <div class="flex justify-items-top flex-col-2 w-full h-[50%] ml-[250px]">
+                <div class="flex justify-items-top flex-col-2 w-full h-[50%] ml-[250px] mr-[100px]">
                     <div class="flex flex-col-2">
                 
                         <div>
                             <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                            <p class="text-justify text-white text-lg font-[Roboto]">L'Odyss&eacute;e d'Hom&egrave;re, une &eacute;pop&eacute;e captivante m&ecirc;lant exploits d'Ulysse, rencontres mythologiques et po&eacute;sie envoûtante. 
-                                Un incontournable pour les amateurs d'aventures &eacute;piques</p>
+                            <p class="text-justify text-white text-lg font-[Roboto]">"1984" de George Orwell plonge les lecteurs dans un monde dystopique oppressant. L'histoire de Winston Smith face &agrave; un r&eacute;gime totalitaire soul&egrave;ve des questions cruciales sur la surveillance et la perte de libert&eacute;. 
+                            Une lecture captivante interrogeant les enjeux de la soci&eacute;t&eacute; et de la libert&eacute; individuelle."</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
-                        <div class="w-[54%] h-[75px]">
+                        <div class="w-[400px] h-[30px]">
                             <img class="flex w-[100%] h-[75px] ml-1" src="../../Icons/user.png">
                         </div>
                     </div>
