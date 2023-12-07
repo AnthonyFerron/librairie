@@ -4,10 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="../dist/output.css" rel="stylesheet">
-    <link href="./style.css" rel="stylesheet">
-
-
+    <link href="../style.css" rel="stylesheet">
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="../tailwind.config.js"></script>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
@@ -42,8 +39,8 @@
               <label for="email" class="block text-sm font-medium leading-6 text-white"> 
               </label>
               <div class="mt-2">
-                <input  id="email" name="email" type="email" autocomplete="email" required placeholder="Adresse email" class="sal font-[Roboto] flex text-center rounded-[8px] border-[2px] border-[solid]
-                border-[rgba(254,145,0,070)] block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6 ">
+                <input  id="email" name="email" type="email" autocomplete="email" required placeholder="Adresse email" class="sal font-[Roboto] flex text-center rounded-[8px] border-[2px]
+                border-[rgba(254,145,0,070)] w-full py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6 ">
               </div>
             </div>
       

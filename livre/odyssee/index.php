@@ -14,6 +14,7 @@
     <div class="absolute top-0 z-[-10]"><img class="w-screen" src="../../Icons/Background.png"></div>
 
     <?php include('../../header/index.html'); ?>
+    <a href="../"><div class="w-[200px] h-[50px] absolute bg-gradient-to-br from-amber-500 to-zinc-500 mt-[50px] left-[100px] rounded-[40px] flex justify-center items-center"><p class="font-[Roboto] text-white text-3xl"><-- Retour</p></div></a>
 
     <!-- pres livre -->
 
@@ -25,9 +26,9 @@
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/l'odysee-d'homere.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
-                <p>5/5</p>
+                <p class="font-[Roboto]">5/5</p>
             </div>
-            <div class="flex text-white text-center mx-10 text-xl mb-[-50px] font-[Roboto]">
+            <div class="flex text-white text-center mx-10 text-xl mb-[-10px] font-[Roboto]">
                 <p classs="flex text-white text-center">Chante, &ocirc; muse, le h&eacute;ros aux cent d&eacute;tours qui a tant err&eacute; sur 
                     terre apr&egrave;s avoir pill&eacute; la ville sainte de Troie, qui a vu tant de 
                     villes et connu tant de peuples, qui sur mer a tant souffert en 

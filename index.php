@@ -6,6 +6,7 @@
     <title>Nouvelle plume</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="icon" href="./Icons/plume.png">
+    <link rel="stylesheet" href="./style.css">
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <script type="" src="carousel.js"></script>
@@ -69,12 +70,12 @@
     </div>
 
     <div class="flex flex-row">
-        <div class="flex flex-col ml-[8%] mt-10 w-[25%]  " >
+        <div class="flex flex-col ml-[8%] mt-10 w-[25%]  justify-center items-center" >
             <div>
-                <img class=" w-[280px]" src="Icons/couvertures/shutterisland.jpg" alt="livre">
+                <a href="./livre/shutter-island"><img class=" w-[280px]" src="Icons/couvertures/shutterisland.jpg" alt="livre"></a>
             </div>
-            <div class="flex flex-row mt-[4%] justify-center " >
-                <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p class="font-[Roboto]" >5/5</p></div>
+            <div class="flex flex-row mt-[4%] justify-center items-center" >
+                <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="./Icons/star.png"><p class="font-[Roboto]" >5/5</p></div>
 
             </div>
         </div>
@@ -147,9 +148,6 @@
                     </div>
                 </div>
             </div>
-            <div class="flex justify-center items-center w-full">
-                <a href="./livre/shutter-island/"><button class="w-[88%] bg-gradient-to-br from-amber-500 to-zinc-700 mt-[80px] m-[50px] rounded-[30px] text-5xl font-[Oswald]">Découvrir ce livre !</button></a>
-            </div>
         </div>
 
         <div class="flex flex-col w-[34.5%] h-full justify-around items-center ml-10 mt-[8%]">
@@ -202,7 +200,7 @@
             <div class="flex justify-center items-center mt-[40px] mr-[180px]">
                 <h1 class="flex font-[Oswald]  justify-center items-center w-[500px] p-4 bg-gradient-to-b from-purple-900 to-zinc-500 rounded-[30px] shadow backdrop-blur-2xl text-white text-3xl">Qui sommes nous ?</h1>
             </div>
-            <div class="text-xl text-white text-justify ml-10 w-[500px] mt-5 font-[Roboto]" >Bienvenue à "Nouvelle plume", une librairie moderne nichée au cœur de la ville des lumières. Dès que vous franchissez la porte, l'atmosphère chaleureuse et contemporaine vous enveloppe. Les étagères en bois sombre, éclairées par des lumières douces, mettent en valeur une sélection éclectique de livres allant des classiques intemporels aux œuvres contemporaines.
+            <div class="text-lg text-white text-justify ml-10 w-[500px] mt-5 font-[Roboto]" >Bienvenue à "Nouvelle plume", une librairie moderne nichée au cœur de la ville des lumières. Dès que vous franchissez la porte, l'atmosphère chaleureuse et contemporaine vous enveloppe. Les étagères en bois sombre, éclairées par des lumières douces, mettent en valeur une sélection éclectique de livres allant des classiques intemporels aux œuvres contemporaines.
 
                 Les murs sont ornés d'œuvres artistiques mettant en scène des scènes emblématiques de la Fête des Lumières, capturant l'éclat des illuminations qui transforment Lyon en un spectacle féerique. Les plafonniers suspendus diffusent une lumière douce, créant une ambiance apaisante et propice à la découverte littéraire.
                 
@@ -212,7 +210,7 @@
                 
 
             </div>
-            <a href="./contact/"><button class=" ml-10 font-[Roboto] flex justify-center mt-4 text-white w-[100px] p-2 flex-shrink-0 rounded-[10px] bg-[linear-gradient(180deg,_rgba(77,_28,_115,_0.80)_0%,_rgba(255,_255,_255,_0.40)_214.13%)] [box-shadow:0px_4px_24px_-1px_rgba(0,_0,_0,_0.20)] backdrop-filter backdrop-blur-[20px] " >
+            <a href="./contact/" class="w-[100px]"><button class="ml-10 font-[Roboto] flex justify-center mt-4 text-white w-[100px] p-2 flex-shrink-0 rounded-[10px] bg-[linear-gradient(180deg,_rgba(77,_28,_115,_0.80)_0%,_rgba(255,_255,_255,_0.40)_214.13%)] [box-shadow:0px_4px_24px_-1px_rgba(0,_0,_0,_0.20)] backdrop-filter backdrop-blur-[20px] " >
                 Contact</button></a>
         </div>
 

@@ -14,13 +14,14 @@
     <div class="absolute top-0 z-[-10]"><img class="w-screen" src="../../Icons/Background.png"></div>
 
     <?php include('../../header/index.html'); ?>
+    <a href="../"><div class="w-[200px] h-[50px] absolute bg-gradient-to-br from-amber-500 to-zinc-500 mt-[50px] left-[100px] rounded-[40px] flex justify-center items-center"><p class="font-[Roboto] text-white text-3xl"><-- Retour</p></div></a>
 
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
         <div class="flex flex-col w-[650px] h-[950px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-['Oswald']">L'Attaque des Titans-T01</h1>
+                <h1 class="text-3xl text-white font-['Oswald']">L'Attaque des Titans</h1>
             </div>
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/snk-tome-1.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">

@@ -14,18 +14,19 @@
     <div class="absolute top-0 z-[-10]"><img class="w-screen" src="../../Icons/Background.png"></div>
 
     <?php include('../../header/index.html'); ?>
+    <a href="../"><div class="w-[200px] h-[50px] absolute bg-gradient-to-br from-amber-500 to-zinc-500 mt-[50px] left-[100px] rounded-[40px] flex justify-center items-center"><p class="font-[Roboto] text-white text-3xl"><-- Retour</p></div></a>
 
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
         <div class="flex flex-col w-[650px] h-[800px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-['Oswald']">One Piece-T01</h1>
+                <h1 class="text-3xl text-white font-[Oswald]">One Piece</h1>
             </div>
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/one-piece-tome-1.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
-                <p>5/5</p>
+                <p class="font-[Roboto]">5/5</p>
             </div>
             <div class="flex text-white text-center mx-10 text-xl mb-[-50px] font-[Roboto]">
                 <p classs="flex text-white text-center">Tout le monde a peur des pirates... sauf Luffy, qui r&ecirc;ve d'en 

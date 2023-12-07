@@ -2,3 +2,7 @@
     font-family: "Oswald";
     src: url("./Icons/Oswald-Regular.ttf");
 }
+@font-face {
+    font-family: "Roboto";
+    src: url("./Icons/Roboto-Regular.ttf");
+}

@@ -14,6 +14,7 @@
     <div class="absolute top-0 z-[-10]"><img class="w-screen" src="../../Icons/Background.png"></div>
 
     <?php include('../../header/index.html'); ?>
+    <a href="../"><div class="w-[200px] h-[50px] absolute bg-gradient-to-br from-amber-500 to-zinc-500 mt-[50px] left-[100px] rounded-[40px] flex justify-center items-center"><p class="font-[Roboto] text-white text-3xl"><-- Retour</p></div></a>
 
     <!-- pres livre -->
 
