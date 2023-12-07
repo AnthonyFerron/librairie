@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Tourne la page </title>
+    <title>Pr&eacute;sentation Tourne la page </title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -92,7 +92,7 @@
                     </div>
                     <div>
                         <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
-                        <p class="text-justify text-white text-lg font-[Roboto] w-[50%]">Squeezie dévoile son monde avec humour et authenticité dans 'Tourne la page'. Une lecture captivante, drôle et sincère qui séduira les fans, mais aussi ceux qui découvrent son univers. À lire pour passer un bon moment sans prise de tête.</p>
+                        <p class="text-justify text-white text-lg font-[Roboto] w-[50%]">Squeezie d&eacute;voile son monde avec humour et authenticit&eacute; dans 'Tourne la page'. Une lecture captivante, drôle et sinc&egrave;re qui s&eacute;duira les fans, mais aussi ceux qui d&eacute;couvrent son univers. &agrave; lire pour passer un bon moment sans prise de tête.</p>
                         <div class="flex flex-row text-white font-[Roboto]"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
@@ -107,7 +107,7 @@
                         <div class="mt-[20px]">
                             <h2 class="flex text-white  font-bold text-xl font-[Roboto]">User4124</h2>
                             <p class="text-justify text-white text-lg font-[Roboto]">"Tourne la page" de Squeezie offre une immersion captivante dans l'univers du YouTubeur.
-                                Drôle, sincère et divertissant, ce livre est un incontournable pour les fans, mais aussi une lecture plaisante pour tous.</p>
+                                Drôle, sinc&egrave;re et divertissant, ce livre est un incontournable pour les fans, mais aussi une lecture plaisante pour tous.</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png "><p class="font-[Roboto]">5/5</p></div>
                         </div>
                         

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation 1984</title>
+    <title>Pr&eacute;sentation 1984</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -81,24 +81,22 @@
         </div>
         
         
-        <div alt="barre séparation" class="w-[1px] h-[250px] bg-white"></div>
+        <div alt="barre s&eacute;paration" class="w-[1px] h-[250px] bg-white"></div>
 
         <!-- avis -->
 
 
-        <div class="flex flex-col w-[49%] h-full justify-around items-center ml-10">
+        <div class="flex flex-col w-[49%] h-full justify-around items-center ml-10 mt-6">
 
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
                     <div class="flex">
-                        <img class="flex h-[75px]" src="../../Icons/user.png">
+                        <img class="flex h-[75px] w-[190px]" src="../../Icons/user.png">
                     </div>
                     <div>
                         <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                        <p class=" text-white">lorem lorem lorem lorem</p>
-                        <p class=" text-white">lorem lorem lorem lorem</p>
-                        <p class=" text-white">lorem lorem lorem lorem</p>
-                        <p class=" text-white">lorem lorem lorem lorem</p>
+                        <p class="text-justify text-white w-[50%] text-lg font-[Roboto]">"1984" de George Orwell plonge les lecteurs dans un monde dystopique oppressant. L'histoire de Winston Smith face &agrave; un r&eacute;gime totalitaire soul&egrave;ve des questions cruciales sur la surveillance et la perte de libert&eacute;. 
+                            Une lecture captivante interrogeant les enjeux de la soci&eacute;t&eacute; et de la libert&eacute; individuelle."</p>
                         <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
@@ -107,19 +105,17 @@
             
             <div class="flex flex-col w-[50%] h-full justify-around items-center">
 
-                <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
+                <div class="flex justify-items-top flex-col-2 w-full h-[50%] ml-[250px]">
                     <div class="flex flex-col-2">
                 
                         <div>
                             <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                            <p class=" text-white">lorem lorem lorem lorem</p>
-                            <p class=" text-white">lorem lorem lorem lorem</p>
-                            <p class=" text-white">lorem lorem lorem lorem</p>
-                            <p class=" text-white">lorem lorem lorem lorem</p>
+                            <p class="text-justify text-white text-lg font-[Roboto]">"1984" de George Orwell plonge dans une dystopie oppressante. L'histoire de Winston Smith, face &agrave; un r&eacute;gime totalitaire, soul&egrave;ve des questions sur la surveillance et la perte de libert&eacute;. 
+                                Un classique captivant interrogeant les enjeux de la soci&eacute;t&eacute; et de la libert&eacute; individuelle."</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
-                        <div class="flex">
+                        <div class="w-[85%] h-[75px]">
                             <img class="flex h-[75px]" src="../../Icons/user.png">
                         </div>
                     </div>
