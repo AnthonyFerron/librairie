@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Tom-Tom et Nana T09</title>
+    <title>Pr&eacute;sentation Tom-Tom et Nana T09</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -16,7 +16,7 @@
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[690px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[710px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
                 <h1 class="text-3xl text-white font-[Osxald]">Tom-Tom et Nana-T09</h1>
             </div>
@@ -93,7 +93,7 @@
                     <div>
                         <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
                         <p class="text-justify text-white w-[50%] text-lg font-[Roboto]">Tom-Tom et Nana, Tome 9" est une aventure hilarante et
-                            pleine d'énergie. Les facéties des personnages et les illustrations vivantes en font une lecture légère et divertissante. Parfait pour un moment de détente plein de bonne humeur.
+                            pleine d'&eacute;nergie. Les fac&eacute;ties des personnages et les illustrations vivantes en font une lecture l&eacute;g&egrave;re et divertissante. Parfait pour un moment de d&eacute;tente plein de bonne humeur.
                         </p>
                         <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
@@ -108,8 +108,8 @@
                 
                         <div>
                             <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
-                            <p class="text-justify text-white text-lg font-[Roboto]">"Tom-Tom et Nana" est une BD déjantée et hilarante. Les gags loufoques et les illustrations dynamiques
-                                en font une lecture légère et divertissante. À savourer pour un pur moment de bonne humeur.
+                            <p class="text-justify text-white text-lg font-[Roboto]">"Tom-Tom et Nana" est une BD d&eacute;jant&eacute;e et hilarante. Les gags loufoques et les illustrations dynamiques
+                                en font une lecture l&eacute;g&egrave;re et divertissante. &agrave; savourer pour un pur moment de bonne humeur.
                             </p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>

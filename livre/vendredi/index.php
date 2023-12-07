@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Vendredi </title>
+    <title>Pr&eacute;sentation Vendredi </title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -32,7 +32,7 @@
                     naufrage sur une &icirc;le d&eacute;serte. Livr&eacute; &agrave; lui-m&ecirc;me, sa solitude va le 
                     contraindre &agrave; faire preuve d'ing&eacute;niosit&eacute;, de pers&eacute;v&eacute;rance et de 
                     courage, afin de survivre dans ce monde sauvage. Jusqu'au jour 
-                    o&ugrave;, se croyant abandonn&eacute; de tous, il rencontre un être humain 
+                    o&ugrave;, se croyant abandonn&eacute; de tous, il rencontre un &ecirc;tre humain 
                     pour le moins inattendu…
                 </p>
             </div>
@@ -97,7 +97,7 @@
                     <div>
                         <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
                         <p class="text-justify text-white text-lg w-[50%] font-[Roboto] ">Vendredi ou la vie sauvage" de Michel Tournier est une 
-                             aventure poignante qui explore la survie et la nature humaine. Avec une écriture immersive, le livre offre une expérience de lecture mémorable.
+                             aventure poignante qui explore la survie et la nature humaine. Avec une &eacute;criture immersive, le livre offre une exp&eacute;rience de lecture m&eacute;morable.
                         </p>
                         <div class="flex flex-row text-white font-[Roboto]"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
@@ -113,8 +113,8 @@
                         <div>
                             <h2 class="flex text-white font-bold text-xl font-[Roboto]">User4124</h2>
                             <p class="text-justify text-white text-lg font-[Roboto]">"Vendredi ou la vie sauvage" de Michel Tournier est une aventure
-                             captivante qui explore la survie et la nature humaine. Avec une écriture
-                            immersive, il offre une bonne expérience de lecture.</p>
+                             captivante qui explore la survie et la nature humaine. Avec une &eacute;criture
+                            immersive, il offre une bonne exp&eacute;rience de lecture.</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
