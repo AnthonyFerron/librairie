@@ -29,7 +29,9 @@
         </div>
     </div>
         
-    <?php include('../footer/index.html'); ?>
+    <div class="absolute bottom-0 w-full">
+        <?php include('../footer/index.html'); ?>
+    </div>
     
 </body>
 </html>
