@@ -33,14 +33,13 @@
                     &eacute;crans, la vie de chacun y est mis&eacute;rable, notamment celles des 
                     prol&eacute;taires, consid&eacute;r&eacute;s comme des sous-hommes. Modeste 
                     employ&eacute; au Miniver, le minist&egrave;re de la V&eacute;rit&eacute;, Winston Smith 
-                    consigne secr&egrave;tement ses r&eacute;flexions dans un journal intime.</p>
-            </div>
+                    consigne secr&egrave;tement ses r&eacute;flexions dans un journal intime.</p>e
         </div>
     </div>
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px]">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[150px]">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">

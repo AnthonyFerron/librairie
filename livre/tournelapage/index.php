@@ -26,7 +26,7 @@
                 <p class="font-[Roboto]">5/5</p>
             </div>
             <div class="flex text-white text-center mx-10 text-xl mb-[-50px]">
-                <p class="flex font-[Roboto] text-white text-center ">Cette couverture a attis&eacute; ta curiosit&eacute;. Que se cache-t-il donc &agrave; 
+                <p class="flex font-[Roboto] text-white text-center mb-10">Cette couverture a attis&eacute; ta curiosit&eacute;. Que se cache-t-il donc &agrave; 
                     l'int&eacute;rieur de ce livre ? Des recettes de cuisine, l'autobiographie 
                     d'un inconnu, des blagues d&eacute;j&agrave; d&eacute;pass&eacute;es ? Tourne la page et tu 
                     auras la r&eacute;ponse.
@@ -37,7 +37,7 @@
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px]">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[80px] mb-[130px]">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
@@ -88,7 +88,7 @@
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
                     <div class="flex">
-                        <img class="flex h-[75px] w-[130px]" src="../../Icons/user.png">
+                        <img class="flex h-[75px] w-[150px]" src="../../Icons/user.png">
                     </div>
                     <div>
                         <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
@@ -111,8 +111,8 @@
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png "><p class="font-[Roboto]">5/5</p></div>
                         </div>
                         
-                        <div class="w-[60%] h-[75px]">
-                            <img class ="h-[75px] w-[100px] ml-3" src="../../Icons/user.png">
+                        <div class="w-[290px] h-[75px]">
+                            <img class ="h-[75px] w-[130px] ml-3" src="../../Icons/user.png">
                         </div>
                     </div>
                 </div>
