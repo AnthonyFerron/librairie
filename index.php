@@ -255,39 +255,39 @@
             </button>
             <div class=" flex flex-row w-full h-full mx-auto justify-center overflow-x-hidden overflow-y-hidden">
                 <div id="slider" class="h-full flex lg:gap-8 md:gap-6 gap-14 items-center justify-start transition ease-out duration-700">
-                    <div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
+                    <a href="./livre/op/"><div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
                         <img src="Icons/couvertures/one-piece-tome-1.jpg" alt=" black chair and white table" class="h-[380px] object-cover object-center " />
                         <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto] ">One-piece</h2>
                         <h1 class=" text-sm mt-1  leading-4  lg:leading-5 text-white font-[Roboto]">Manga</h1>
 
-                    </div>
+                    </div></a>
 
 
-                    <div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
+                    <a href="./livre/hungergames/"><div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
                         <img src="Icons/couvertures/hungerGamestome1.jpg" alt="sitting area" class=" h-[380px] object-cover object-center w-full" />
-                        <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto]">hunger Gamestome</h2>
+                        <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto]">hunger Games</h2>
                         <h1 class=" text-sm mt-1  leading-4  lg:leading-5 text-white font-[Roboto]">Fantastique</h1>
 
-                    </div>
-                    <div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
+                    </div></a>
+                    <a href="./livre/odyssee/"><div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
                         <img src="Icons/couvertures/l'odysee-d'homere.jpg" alt="sitting area" class=" h-[380px] object-cover object-center w-full" />
                         <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto] ">L'Odyssée</h2>
                         <h1 class=" text-sm mt-1  leading-4  lg:leading-5 text-white font-[Roboto]">Classique</h1>
 
 
-                    </div>
-                    <div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
+                    </div></a>
+                    <a href="./livre/luckyluke/"><div class="flex flex-col flex-shrink-0 relative w-[200px] h-[380px] ">
                         <img src="Icons/couvertures/lucky-luke.jpg" alt="sitting area" class="h-[380px] object-cover object-center w-full" />
                         <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto] ">lucky-luke</h2>
                         <h1 class=" text-sm mt-1  leading-4  lg:leading-5 text-white font-[Roboto]">BD</h1>
 
-                    </div>
-                    <div class="flex flex-col flex-shrink-0 relative  h-[380px] w-[200px]">
+                    </div></a>
+                    <a href="./livre/vendredi/"><div class="flex flex-col flex-shrink-0 relative  h-[380px] w-[200px]">
                         <img src="Icons/couvertures/vendredi-ou-la-vie-sauvage.jpg" alt="black chair and white table" class="h-[380px] object-cover object-center w-full" />
-                        <h2 class=" mt-2 lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto]">vendredi-ou-la-vie-sauvage</h2>
+                        <h2 class=" lg:text-xl leading-4 text-base lg:leading-5 text-white font-[Roboto]">vendredi ou la vie sauvage</h2>
                         <h1 class=" text-sm mt-1  leading-4  lg:leading-5 text-white font-[Roboto]">Classique</h1>
 
-                    </div>
+                    </div></a>
 
 
                 </div>
