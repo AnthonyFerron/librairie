@@ -11,7 +11,8 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="../tailwind.config.js"></script>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-    <title>Document</title>
+    <title>Connexion</title>
+    <link rel="icon" href="../Icons/plume.png">
 </head>
 
 

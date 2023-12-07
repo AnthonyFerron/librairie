@@ -5,14 +5,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="../../style.css">
-    <title>Pr&eacute;sentation Harry Potter et le prisonnier d'Azkaban </title>
+    <title>Harry Potter et le prisonnier d'Azkaban </title>
+    <link rel="icon" href="../../Icons/plume.png">
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
 
     <div class="absolute top-0 z-[-10]"><img class="w-screen" src="../../Icons/Background.png"></div>
 
-    <!-- <?php include('../../header/index.html'); ?> -->
+    <?php include('../../header/index.html'); ?>
 
     <!-- pres livre -->
 
