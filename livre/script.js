@@ -137,7 +137,7 @@ const product = [
     title: 'One piece',
     category: 'Manga',
     grade: '4.8/5',
-    link: './'
+    link: './op/'
 },
 {
     id: 3,
@@ -145,7 +145,7 @@ const product = [
     title: 'Lucky Luke',
     category: 'BD',
     grade: '4.8/5',
-    link: '#'
+    link: './luckyluke/'
 },
 {
     id: 7,
@@ -153,7 +153,7 @@ const product = [
     title: 'Hunger Games',
     category: 'Fantastique',
     grade: '4.7/5',
-    link: '#'
+    link: './hungergames/'
 },
 {
     id: 6,
@@ -161,7 +161,7 @@ const product = [
     title: 'Tom-Tom et Nana',
     category: 'Enfant',
     grade: '4.2/5',
-    link: '#'
+    link: './tomtometnana/'
 },
 {
     id: 4,
@@ -169,7 +169,7 @@ const product = [
     title: 'Attaque des titans',
     category: 'Manga',
     grade: '4.6/5',
-    link: '#'
+    link: './snk/'
 },
 ];
 
