@@ -6,3 +6,4 @@ input.css
 tailwind.config.json
 tailwind.config.js
 /.idea
+.Ds_store
