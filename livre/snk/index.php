@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation SNK</title>
+    <link rel="stylesheet" href="../../style.css">
+    <title>L'attaque des Titans</title>
+    <link rel="icon" href="../../Icons/plume.png">
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -18,7 +20,7 @@
     <div class="flex justify-center items-center w-full" >
         <div class="flex flex-col w-[650px] h-[950px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-[Oswald]">L'Attaque des Titans-T01</h1>
+                <h1 class="text-3xl text-white font-['Oswald']">L'Attaque des Titans-T01</h1>
             </div>
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/snk-tome-1.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
@@ -31,11 +33,11 @@
                     une centaine d'ann&eacute;es, les derniers rescap&eacute;s ont b&acirc;ti une place forte, 
                     une cit&eacute; cern&eacute;e d'une haute muraille au sein de laquelle vivent 
                     aujourd'hui leurs descendants. Parqu&eacute;s, ignorants tout du 
-                    monde ext&eacute;rieur, ils s'estiment au moins à l'abri de ces 
+                    monde ext&eacute;rieur, ils s'estiment au moins &agrave; l'abri de ces 
                     effroyables &ecirc;tres qui ne feraient d'eux qu'une bouch&eacute;e. H&eacute;las, 
                     cette illusion de s&eacute;curit&eacute; vole en &eacute;clats le jour o&ugrave; surgit un Titan 
                     d&eacute;mesur&eacute;, encore bien plus colossal que tous les autres. 
-                    S'engage alors un combat d&eacute;sespér&eacute; pour la survie du genre 
+                    S'engage alors un combat d&eacute;sesp&eacute;r&eacute; pour la survie du genre 
                     humain…
                 </p>
             </div>
@@ -99,8 +101,8 @@
                     </div>
                     <div>
                         <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                        <p class="text-justify text-white w-[50%] text-lg font-[Roboto]"> L' Attaque des Titans, Tome 1" démarre en force avec une intrigue captivante et des illustrations percutantes. 
-                            Une lecture intense qui promet une saga épique et intrigante."
+                        <p class="text-justify text-white w-[50%] text-lg font-[Roboto]"> L' Attaque des Titans, Tome 1" d&eacute;marre en force avec une intrigue captivante et des illustrations percutantes. 
+                            Une lecture intense qui promet une saga &eacute;pique et intrigante."
                         </p>
                         <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
@@ -110,12 +112,12 @@
             
             <div class="flex flex-col w-[50%] h-full justify-around items-center">
 
-                <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
+                <div class="flex justify-items-top flex-col-2 w-full h-[50%] ml-[250px]">
                     <div class="flex flex-col-2">
                 
                         <div>
                             <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                            <p class="text-justify text-white text-lg font-[Roboto]">"L' Attaque des Titans, Tome 1" plonge dans un univers captivant, mêlant action frénétique et mystères intrigants. Les illustrations percutantes et l'histoire intense en font une lecture prometteuse pour les fans d'épopées palpitantes."</p>
+                            <p class="text-justify text-white text-lg font-[Roboto]">"L' Attaque des Titans, Tome 1" plonge dans un univers captivant, mêlant action fr&eacute;n&eacute;tique et mystères intrigants. Les illustrations percutantes et l'histoire intense en font une lecture prometteuse pour les fans d'&eacute;pop&eacute;es palpitantes."</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p class="font-[Roboto]">5/5</p></div>
                         </div>
                         

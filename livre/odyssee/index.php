@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation l'odyss&eacute;e</title>
+    <link rel="stylesheet" href="../../style.css">
+    <link rel="icon" href="../../Icons/plume.png">
+    <title>L'odyss&eacute;e d'Hom&egrave;re</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -16,9 +18,9 @@
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[850px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[830px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-[Oswald]">L'odyssée d'Homère</h1>
+                <h1 class="text-3xl text-white font-['Oswald']">L'odyss&eacute;e d'Hom&egrave;re</h1>
             </div>
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/l'odysee-d'homere.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
@@ -32,7 +34,7 @@
                     son coeur, luttant pour sa vie et le retour de ses &eacute;quipages. Tous 
                     les Grecs qui ne sont pas morts devant Troie ont rejoint les leurs. 
                     Seul Ulysse erre encore sur les flots, jouet de la rancune de 
-                    Pos&eacute;idon. Et tandis qu'à Ithaque le souvenir du h&eacute;ros s'estompe, 
+                    Pos&eacute;idon. Et tandis qu'&agrave; Ithaque le souvenir du h&eacute;ros s'estompe, 
                     l'app&eacute;tit des pr&eacute;tendants au tr&ocirc;ne s'aiguise.
                 </p>
             </div>
@@ -95,8 +97,8 @@
                         <img class="flex h-[75px] w-[140px]" src="../../Icons/user.png">
                     </div>
                     <div>
-                        <p class="text-justify w-[50%] text-white text-lg font-[Roboto]">L'Odyssée d'Homère est une épopée mythique captivante, mêlant les exploits d'Ulysse à des rencontres mythologiques. 
-                            La poésie de l'écriture enrichit cette lecture incontournable pour les amateurs d'aventures épiques.</p>
+                        <p class="text-justify w-[50%] text-white text-lg font-[Roboto]">L'Odyss&eacute;e d'Hom&egrave;re est une &eacute;pop&eacute;e mythique captivante, m&ecirc;lant les exploits d'Ulysse &agrave; des rencontres mythologiques. 
+                            La po&eacute;sie de l'&eacute;criture enrichit cette lecture incontournable pour les amateurs d'aventures &eacute;piques.</p>
                         <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
@@ -110,8 +112,8 @@
                 
                         <div>
                             <h2 class="flex text-white font-bold text-xl">User2569</h2>
-                            <p class="text-justify text-white text-lg font-[Roboto]">L'Odyssée d'Homère, une épopée captivante mêlant exploits d'Ulysse, rencontres mythologiques et poésie envoûtante. 
-                                Un incontournable pour les amateurs d'aventures épiques</p>
+                            <p class="text-justify text-white text-lg font-[Roboto]">L'Odyss&eacute;e d'Hom&egrave;re, une &eacute;pop&eacute;e captivante m&ecirc;lant exploits d'Ulysse, rencontres mythologiques et po&eacute;sie envoûtante. 
+                                Un incontournable pour les amateurs d'aventures &eacute;piques</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         

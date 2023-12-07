@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>Présentation Vendredi </title>
+    <link rel="stylesheet" href="../../style.css">
+    <title>La ferme des animaux</title>
+    <link rel="icon" href="../../Icons/plume.png">
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
 <body class="bg-[#04151F]">
@@ -16,24 +18,23 @@
     <!-- pres livre -->
 
     <div class="flex justify-center items-center w-full" >
-        <div class="flex flex-col w-[650px] h-[850px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
+        <div class="flex flex-col w-[650px] h-[780px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-[Oswald]">Vendredi ou la vie sauvage</h1>
+                <h1 class="text-3xl text-white font-['Oswald']">La Ferme des Animaux</h1>
             </div>
-            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/vendredi-ou-la-vie-sauvage.jpg"/>
+            <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/la-ferme-des-animaux.jpeg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
                 <img class="w-[48px]" src="../../Icons/star.png">
                 <p class="font-[Roboto]">5/5</p>
             </div>
-            <div class="flex text-white text-center mx-10 text-xl mb-[-50px]">
-                <p class="flex text-white text-center font-[Roboto]">Septembre 1759. Robinson est &agrave; bord de La Virginie faisant 
-                    route pour le Chili. Une temp&ecirc;te formidable pr&eacute;cipite le navire 
-                    sur des r&eacute;cifs, et Robinson va se retrouver seul survivant du 
-                    naufrage sur une &icirc;le d&eacute;serte. Livr&eacute; &agrave; lui-m&ecirc;me, sa solitude va le 
-                    contraindre &agrave; faire preuve d'ing&eacute;niosit&eacute;, de pers&eacute;v&eacute;rance et de 
-                    courage, afin de survivre dans ce monde sauvage. Jusqu'au jour 
-                    o&ugrave;, se croyant abandonn&eacute; de tous, il rencontre un être humain 
-                    pour le moins inattendu…
+            <div class="flex text-white text-center mx-10 text-xl mb-[-50px] font-[Roboto]">
+                <p classs="flex text-white text-center">A la Ferme du Manoir, les animaux en ont assez d'&ecirc;;tre 
+                    maltrait&eacute;s. Le Major, cochon de son &eacute;tat, leur ouvre les yeux sur 
+                    la tyrannie de l'Homme. Une fois le fermier banni, ils prennent 
+                    leur destin en main et des r&egrave;gles sont &eacute;dict&eacute;es et r&eacute;dig&eacute;es par 
+                    les cochons. La plus importante : Tous les animaux sont &eacute;gaux. 
+                    Mais le temps passe et il s'av&egrave;re que certains le sont plus que 
+                    d'autres.
                 </p>
             </div>
         </div>
@@ -41,41 +42,41 @@
 
     <!-- details livres -->
 
-    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px]">
+    <div class="flex flex-row w-full justify-center items-center h-[250px] mt-[50px] mb-[100px] font-[Roboto]">
         <div class="flex flex-row w-[49%] h-full ml-10">
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
                 <div class="flex flex-col justify-left items-center text-2xl w-[50%] h-full">
-                    <p class="text-white font-[Roboto]">Prix :<br>
+                    <p class="text-white">Prix :<br>
                         <br>Auteur : <br>
                         <br>Editeur :<br>
                         <br>Date :
                     </p>
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
-                    <p class="font-[Roboto]">
-                        8€65<br>
-                        <br>Michel Tournier<br>
-                        <br>Gallimard Jeunesse<br>
-                        <br>1971
+                    <p >
+                        6€65<br>
+                        <br>George Orwell <br>
+                        <br>Delcourt<br>
+                        <br>1945
                     </p>
                 </div>
             </div>
 
             <div class="flex flex-row justify-around items-center w-[50%] h-full mr-10">
                 <div class="flex flex-col justify-left items-center text-2xl w-[50%] h-full">
-                    <p class="text-white font-[Roboto]">Nombre de pages :<br>
+                    <p class="text-white">Nombre de pages :<br>
                         <br>Format : <br>
                         <br>Poids :<br>
                         <br>ISBN :
                     </p>
                 </div>
                 <div class="flex flex-col text-right text-2xl w-[50%] h-full text-white">
-                    <p class="font-[Roboto]">
-                        167<br>
-                        <br>12,3 x 17,8 x 5,30 cm<br>
-                        <br>1,3460 kg<br>
-                        <br>2070577066
+                    <p>
+                        48<br>
+                        <br>29.8 x 22.6 x 0,9 cm<br>
+                        <br>0,428 kg<br>
+                        <br>2413039651
                     </p>
                 </div>
             </div>
@@ -92,14 +93,13 @@
             <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                 <div class="flex flex-col-2">
                     <div class="flex">
-                        <img class="flex h-[75px] w-[130px]" src="../../Icons/user.png">
+                        <img class="flex h-[75px] w-[162px]" src="../../Icons/user.png">
                     </div>
                     <div>
-                        <h2 class="flex text-white font-bold text-xl font-[Roboto]">User2569</h2>
-                        <p class="text-justify text-white text-lg w-[50%] font-[Roboto] ">Vendredi ou la vie sauvage" de Michel Tournier est une 
-                             aventure poignante qui explore la survie et la nature humaine. Avec une écriture immersive, le livre offre une expérience de lecture mémorable.
-                        </p>
-                        <div class="flex flex-row text-white font-[Roboto]"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
+                        <h2 class="flex text-white font-bold text-xl">User2569</h2>
+                        <p class="text-justify text-white w-[50%] text-lg">"La Ferme des Animaux" de George Orwell explore avec puissance le pouvoir et la corruption &agrave; travers une all&eacute;gorie saisissante. Ce court roman invite &agrave; la r&eacute;flexion 
+                            sur la nature humaine et politique, mettant en lumière la manipulation et la qu&ecirc;te de libert&eacute;."</p>
+                        <div class="flex flex-row text-white"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
 
                     </div>
                 </div>
@@ -107,19 +107,18 @@
             
             <div class="flex flex-col w-[50%] h-full justify-around items-center ml-[250px]">
 
-                <div class="flex justify-items-top text-right flex-col-2 w-full h-[50%]">
+                <div class="flex justify-items-top flex-col-2 w-full h-[50%]">
                     <div class="flex flex-col-2">
                 
                         <div>
-                            <h2 class="flex text-white font-bold text-xl font-[Roboto]">User4124</h2>
-                            <p class="text-justify text-white text-lg font-[Roboto]">"Vendredi ou la vie sauvage" de Michel Tournier est une aventure
-                             captivante qui explore la survie et la nature humaine. Avec une écriture
-                            immersive, il offre une bonne expérience de lecture.</p>
+                            <h2 class="flex text-white font-bold text-xl">User2569</h2>
+                            <p class="text-justify text-white text-lg">"La Ferme des Animaux" de George Orwell est une all&eacute;gorie puissante sur le pouvoir et la corruption. Ce court roman explore la nature humaine et politique, 
+                                mettant en lumière la manipulation et la qu&ecirc;te de libert&eacute;."</p>
                             <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
                         </div>
                         
-                        <div class="w-[60%] h-[75px]">
-                            <img class=" w-[100%] h-[75px] ml-3" src="../../Icons/user.png">
+                        <div class="w-[65%] h-[75px]">
+                            <img class=" h-[75px]" src="../../Icons/user.png">
                         </div>
                     </div>
                 </div>
