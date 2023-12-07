@@ -26,8 +26,8 @@
           <div>
             <label for="name" class=" text-sm flex  justify-center font-medium leading-6 text-white">
             </label>
-            <div class="mt-4 flex justify-center text-center ">
-              <input class="text-center bg-blur rounded-md  border-[2px] border-[rgba(254,145,0,0.70)] "  id="email" name="email" type="email" autocomplete="email" required placeholder="Nom Prénom" class="sal  block w-[80%] border-0 py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6">
+            <div class="mt-4 flex justify-center text-center font-[Roboto] ">
+              <input class="text-center font-[Roboto] bg-blur rounded-md  border-[2px] border-[rgba(254,145,0,0.70)] "  id="email" name="email" type="email" autocomplete="email" required placeholder="Nom Prénom" >
             </div>
           </div>
         </div>
@@ -41,7 +41,7 @@
               <label for="email" class="block text-sm font-medium leading-6 text-white"> 
               </label>
               <div class="mt-2">
-                <input  id="email" name="email" type="email" autocomplete="email" required placeholder="Adresse email"class="sal flex text-center rounded-[8px] border-[2px] border-[solid] 
+                <input  id="email" name="email" type="email" autocomplete="email" required placeholder="Adresse email" class="sal font-[Roboto] flex text-center rounded-[8px] border-[2px] border-[solid]
                 border-[rgba(254,145,0,070)] block w-full rounded-md border-0 py-1.5 text-gray-900 shadow-sm  placeholder:text-gray-400  sm:text-sm sm:leading-6 ">
               </div>
             </div>
@@ -50,24 +50,24 @@
               <div class="flex items-center justify-between">
                 <label for="password" class="block text-sm font-medium leading-6 text-white"></label>
                 <div class="text-sm">
-                  <a href="#" class="font-semibold text-white hover:text-indigo-500">Forgot password?</a>
+                  <a href="#" class="font-semibold text-white hover:text-indigo-500  font-[Roboto]">Forgot password?</a>
                 </div>
               </div>
               <div class="mt-2">
-                <input id="password" name="password" type="password" autocomplete="current-password" required placeholder="Mot de passe" class="sal text-center  border-[2px]  border-[rgba(254,145,0,0.7)] block  w-full rounded-md  py-1.5 text-gray-900 shadow-sm placeholder:text-gray-400 sm:text-sm sm:leading-6">
+                <input id="password" name="password" type="password" autocomplete="current-password" required placeholder="Mot de passe" class="sal text-center font-[Roboto] border-[2px]  border-[rgba(254,145,0,0.7)] block  w-full rounded-md  py-1.5 text-gray-900 shadow-sm placeholder:text-gray-400 sm:text-sm sm:leading-6">
               </div>
             </div>
       
             <div class="mt-2"> 
               <button type="submit" class="button flex w-full justify-center px-3 py-1.5 text-sm font-semibold leading-6 text-white shadow-sm 
-              rounded-[50px] bg-[linear-gradient(99deg,_#F18A00_-17.03%,_rgba(217,_217,_217,_0.00)_108.57%)]  hover:translate-y-1
+              rounded-[50px] font-[Roboto] bg-[linear-gradient(99deg,_#F18A00_-17.03%,_rgba(217,_217,_217,_0.00)_108.57%)]  hover:translate-y-1
              ">Connexion</button>
             </div>
           </form>
       
-          <p class="mt-5 text-center text-sm text-white">
+          <p class="mt-5 font-[Roboto] text-center text-sm text-white">
             D&eacute;j&agrave; membre ?
-            <a href="../connexion/" class="font-semibold leading-6 text-orange text-[rgba(254,145,0,0.70)] hover:text-indigo-500">Connecte toi directement ici</a>
+            <a href="../connexion/" class="font-semibold leading-6 text-orange text-[rgba(254,145,0,0.70)] hover:text-indigo-500 font-[Roboto]">Connecte toi directement ici</a>
           </p>
         </div>
       </div>
