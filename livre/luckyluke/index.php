@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="../../style.css">
     <title>Pr&eacute;sentation Lucky Luke</title>
     <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="52cb5553-ca36-435e-ad36-c7d03e766965";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
 </head>
@@ -18,7 +19,7 @@
     <div class="flex justify-center items-center w-full" >
         <div class="flex flex-col w-[650px] h-[965px] justify-center items-center bg-gradient-to-br from-amber-500 from-[-50%] backdrop-blur-[7px] rounded-[30px]">
             <div class="flex justify-around items-center w-[577px] h-[76px] bg-gradient-to-b from-amber-500 rounded-[30px] shadow">
-                <h1 class="text-3xl text-white font-[Oswald]">Lucky Luke - Mythes et r&eacute;alit&eacute;s du Far West</h1>
+                <h1 class="text-3xl text-white font-['Oswald']">Lucky Luke - Mythes et r&eacute;alit&eacute;s du Far West</h1>
             </div>
             <img class="flex w-[252px] mt-10 mb-5  opacity-100" src="../../Icons/couvertures/lucky-luke.jpg"/>
             <div class="flex flex-row justify-center items-center mb-5 text-white text-xl">
