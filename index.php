@@ -74,7 +74,7 @@
                 <img class=" w-[280px]" src="Icons/couvertures/shutterisland.jpg" alt="livre">
             </div>
             <div class="flex flex-row mt-[4%] justify-center " >
-                <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p>5/5</p></div>
+                <div class="flex flex-row text-white items-center"><img class="w-[25px]" src="../../Icons/star.png"><p class="font-[Roboto]" >5/5</p></div>
 
             </div>
         </div>
