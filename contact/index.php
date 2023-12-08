@@ -54,7 +54,7 @@
                 </div>
                 <div class="text-white mb-5">
                     <input type="checkbox" name="politiques_confidentialite" id="politiques_confidentialite" required>
-                    <label for="politiques_confidentialite"><a class="font-[Roboto]" href="/Images/troll.webp">J'accepte les politiques de confidentialité</a></label>
+                    <label for="politiques_confidentialite"><a class="font-[Roboto]" href="../rgpd/">J'accepte les politiques de confidentialité</a></label>
                 </div>
                 <div>
                     <button class=" flex flex-row hover:shadow-form rounded-md bg-[#d97706] py-2 px-4 text-base font-semibold text-white outline-none">
