@@ -14,7 +14,7 @@
     <?php include('../header/index.html'); ?>
     
     <div class="flex justify-around items-center mt-[40px] mb-[60px]">
-        <h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-600 rounded-[30px] text-5xl w-[577px] h-[76px] text-white font-[Oswald]">Nos livres</h1>
+        <h1 class="flex justify-center items-center bg-gradient-to-b from-amber-500 rounded-[30px] shadow backdrop-blur text-5xl w-[577px] h-[76px] text-white font-[Oswald]">Nos livres</h1>
     </div>
     
     <div id="btns" class="flex flex-row justify-center items-center ml-5"></div>

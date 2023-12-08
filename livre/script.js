@@ -48,11 +48,11 @@ document.getElementById('btns').innerHTML=filters.map((btn)=>{
     var {name, id, tag} = btn;
     if(id=='1'){
         return(
-            "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-500 rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5 font-[Oswald]' onclick='document.location.reload("+(tag)+`)'>${name}</button>`
+            "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 shadow backdrop-blur rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5 font-[Oswald]' onclick='document.location.reload("+(tag)+`)'>${name}</button>`
     )}
     else{
         return(
-            "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 to-zinc-500 rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5 font-[Oswald]' onclick='filterItems("+(id)+`)'>${name}</button>`
+            "<button class='flex justify-center items-center bg-gradient-to-b from-amber-500 shadow backdrop-blur rounded-[30px] text-3xl w-[196px] h-[55px] text-white mr-5 font-[Oswald]' onclick='filterItems("+(id)+`)'>${name}</button>`
         )
     }
 }).join('');
