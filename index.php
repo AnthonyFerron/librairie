@@ -21,7 +21,7 @@
     <!-- body -->
 
     <div class="flex justify-center items-center mt-[40px] mb-[60px]">
-        <h1 class="flex font-[Oswald]  justify-center items-center bg-gradient-to-b from-amber-500  rounded-[30px] text-5xl w-[577px] h-[76px] text-white shadow backdrop-blur">Shutter Island</h1>
+        <h1 class="flex font-[Oswald]  justify-center items-center bg-gradient-to-b from-amber-500  rounded-[30px] text-5xl w-[577px] h-[76px] text-white shadow backdrop-blur">Actualitees et Evenements</h1>
     </div>
 
     <div class="flex justify-center items-center text-white">
